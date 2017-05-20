@@ -25,7 +25,7 @@ SECRET_KEY = '&8+wg$*ismb=6p2sz3j&3xadj#jsm4ur(vylq84&ws*f7g)7gz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['yarmoshevi4.pythonanywhere.com']
 
 
 # Application definition
